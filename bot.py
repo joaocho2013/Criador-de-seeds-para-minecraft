@@ -1,3 +1,6 @@
+#pip install discord.py
+#pip install python-dotenv
+#instalar essas duas bibliotecas
 import os
 import discord
 from discord.ext import commands
